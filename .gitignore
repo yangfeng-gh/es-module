@@ -2,3 +2,8 @@
 .idea
 .vscode
 .metadata
+
+# macos
+.DS_Store
+
+# windows
